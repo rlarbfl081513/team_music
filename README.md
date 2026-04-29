@@ -1,6 +1,6 @@
 # Radio Character — 라디오 캐릭터 컨셉의 인터랙티브 음악 플레이어
 
-![메인 화면](./assets/ex.jpg)
+![메인 화면](./assets/radio-main-gif.gif)
 
 > 아이템을 캐릭터의 입으로 드래그하면 음악이 재생되는  
 > **드래그 앤 드롭 기반 인터랙티브 음악 플레이어**
@@ -49,9 +49,12 @@
 ---
 
 ## 음악 장르별 화면 디자인
-
+![메인 화면](./assets/radio-chrismas-gif.gif)
+![메인 화면](./assets/radio-hiphop-gif.gif)
 ![장르별 화면 1](./assets/pt_4.png)
 
+![메인 화면](./assets/radio-folk-gif.gif)
+![메인 화면](./assets/radio-jazz-gif.gif)
 ![장르별 화면 2](./assets/pt_5.png)
 
 | 장르 | 테마 요소 |
