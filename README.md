@@ -49,11 +49,15 @@
 ---
 
 ## 음악 장르별 화면 디자인
+### 크리스마스 테마
 ![메인 화면](./assets/radio-chrismas-gif.gif)
+### 힙합 테마
 ![메인 화면](./assets/radio-hiphop-gif.gif)
 ![장르별 화면 1](./assets/pt_4.png)
-
+---
+### 포크 테마
 ![메인 화면](./assets/radio-folk-gif.gif)
+### 재즈 테마
 ![메인 화면](./assets/radio-jazz-gif.gif)
 ![장르별 화면 2](./assets/pt_5.png)
 
